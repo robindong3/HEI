@@ -4,6 +4,7 @@ import math
 import matplotlib.pyplot as plt
 import csv
 
+
 #(a)
 def load_json(fileName, start = 1937, end = 2012):
     '''
